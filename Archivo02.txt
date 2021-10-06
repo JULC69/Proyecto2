@@ -1,2 +1,3 @@
 Mi primera linea de texto archivo 02
 Mi primera Grafico archivo 02
+Mi segundo Grafico archivo 02
